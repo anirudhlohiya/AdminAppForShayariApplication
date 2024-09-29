@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789893788591",
+    "project_id": "shayariapp-93744",
+    "storage_bucket": "shayariapp-93744.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789893788591:android:e14b9f972ab01bece3755a",
+        "android_client_info": {
+          "package_name": "com.hindi.adminappformyshayaiapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEwGqADqQbf3IoJx57KoqVmo6uyt3bICQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789893788591:android:06894a1dd05ecb6ae3755a",
+        "android_client_info": {
+          "package_name": "com.hindi.shyariapplicationbyanirudhlohiya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEwGqADqQbf3IoJx57KoqVmo6uyt3bICQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

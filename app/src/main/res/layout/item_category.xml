@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_margin="10dp"
+        app:cardCornerRadius="10dp">
+
+        <TextView
+            android:id="@+id/item_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="@color/background"
+            android:fontFamily="@font/bold"
+            android:gravity="center"
+            android:text="Hindi Cat"
+            android:textSize="22sp" />
+
+        <ImageView
+            android:id="@+id/btnDelete"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="right|center"
+            android:layout_marginEnd="20dp"
+            android:background="@drawable/delete_icon" />'
+
+        <ImageView
+            android:id="@+id/btnUpdateCategory"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="left|center"
+            android:layout_marginStart="20dp"
+            android:background="@drawable/edit_icon" />
+
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>

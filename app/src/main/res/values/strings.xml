@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Admin App for my Shayai Application</string>
+    <string name="app_name_without_space">Admin Shayari App By Anirudh</string>
+    <string name="header_app_name">Admin SHYARI APP</string>
+</resources>
